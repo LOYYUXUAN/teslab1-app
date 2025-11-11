@@ -1,8 +1,8 @@
 import streamlit as st
 
-st.title("🎈 My new app")
+st.title("🎈 我肚子好饿")
 st.write(
-    "Let's start building! For help and inspiration, head over to [docs.streamlit.io](https://docs.streamlit.io/)."
+    "早餐就应该吃点好的 [docs.streamlit.io](https://docs.streamlit.io/)."
 )
 
 st.write("我要吃叉烧包!😀")
